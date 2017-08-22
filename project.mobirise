@@ -1,0 +1,388 @@
+{
+  "settings": {
+    "name": "BenefitsToRealtors",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#c6913f"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 9,
+    "versionPublish": "4.1.6",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x30.png",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cesar-marin-home-loans-logo-564x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/realtor-logo-blue108px-1166x1267.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BENEFITS TO REALTORS",
+          "text": "<p><b>Dear Realtor®,\n</b></p><p><b>We Loan Officers have different ways to work with our Realtor partners. My way is quite straight forward. I would like to help you sell more houses by not only offering your buyers additional forms of financing, but also helping YOU in your efforts to have more clients. I do this by providing solutions to the most common problems faced by Realtors: How To Get More Clients and How to Keep the Ones You Already Have. I call this a \"Helping Hand.\"\n</b></p><p>\n</p><p><b>Regarding the finance programs for your buyers, I can provide 100% financing to borrowers with credit scores as low as 620. I also offer several programs for buyers who are self-employed or who otherwise choose not to provide their tax returns. I also can provide several types of ARM programs, with initial payment rates starting at just 2.5%.\n</b></p><p>\n</p><p><b>I know that you probably get contacted by plenty of mortgage brokers, all telling you the same story about great rates and service, but in reality, any broker who does not offer these programs would soon be out of business. My value to you and your client is that I will do the following:\n</b></p><p>\n</p><p><b>•\tPre-qualify all of your prospects.\n</b></p><p><b>•\tDo a needs analysis of your client’s situation.\n</b></p><p><b>•\tGo beyond the offering of not only the best rate available for your clients for their particular situation, but also, and most importantly, the financial benefits that with time will bring the much needed solutions to their problems, which after all were the reason of why they came to you in the first place. \n</b></p><p><b>•\tGet you an electronic pre-approval so you can write up your offers faster.\n</b></p><p><b>•\tProcess all the lender’s conditions in a timely fashion.\n</b></p><p><b>•\tCopy you on all lender’s conditions and their resolution.\n</b></p><p><b>•\tBe in constant communication with you updating you on the loan progress.\n</b></p><p><b>•\tMinimize the up-front closing costs by avoiding points whenever possible.\n</b></p><p><b>•\tAttend settlement to provide assistance to your buyer during the signing of the loan and mortgage documents.\n</b></p><p><b>• And perhaps more importantly, I will be clear and straight forward when telling you about your client's situation.\n</b></p><p>\n</p><p><b>When working with your prospects, as an added value to the ones above, I will set you up with the following marketing aids that will keep you in your clients’ mind after the close of escrow. </b><b style=\"font-size: 1.07rem;\">You can see how these marketing tools work by clicking on the buttons below. If you have any questions about how I can help you get more clients, please give me a call at (714) 610-6809 or send me a quick message. Thank you.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-0",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/newsletter-image-600x468.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Weekly Article",
+          "subtitle1": "To keep you in your clients' mind",
+          "caption1": "An auto-responder email address system where you can have your prospects sign up to get a weekly article on mortgage and finance-related topics. Each article will have your name, company name and phone number on it. I have a total of 52 different topics, so your prospects will receive something of value from you one a week for up to a year.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.realestateandtaxhelp.com/?p=225\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE HOW IT WORKS</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/first-time-buyer-presentati-600x602.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Home Buyer Seminars",
+          "subtitle2": "A lead-producing system",
+          "caption2": "A telephone-capture system that allows you to get prospective clients’ telephone numbers when they send a keyword to a system (your system) that auto-responds with a link that they can click on to watch or download materials of interest to them, like eBooks, Online Home Buyer Seminars, Buyer and Seller’s Guides, etc. You can also use these materials to send to your current clients as a bonus for choosing you as their agent.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.realestateandtaxhelp.com/index.php/gravity-landing/benefits-to-realtors-home-buyer-seminar-online/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE HOW IT WORKS</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/call-capture-for-listings-600x680.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Call-Capture Listing",
+          "subtitle3": "Call-capturing system for your Listings",
+          "caption3": "A telephone-capture system that allows you to get prospective buyers’ telephone numbers when they send a keyword to a system (your system) that auto-responds with a link that they can click on to receive information on your listings. This information includes a branded property website, personalized with your contact information, and all the details about your listing. A powerful selling tool on your listing presentations!",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.realestateandtaxhelp.com/?p=232\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE HOW IT WORKS</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/red-credit-sign150px-600x270.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Credit Repair",
+          "subtitle4": "Help your prospects with credit issues become buyers in no time",
+          "caption4": "Assistance with your buyers' credit. How many times have you told prospective clients you &nbsp;are not able to help due to issues on their credit report? By repairing or improving your clients’ credit report they can see their score improve to a point in which they can now qualify for a loan, allowing them to become actual buyers in a more expedient manner, so you can take them to see homes sooner and get paid faster.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://longbeachhomes.github.io/HelpingYourClientsImproveTheirCredit/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE HOW IT WORKS</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "SHARE THIS PAGE!",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c6913f",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Address</strong><br>1551 N Tustin Ave Suite 430<br>Santa Ana CA 90275<br>NMLS# 287752<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto: caesarmarin@gmail.com\" class=\"text-white\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nPhone: 714.610.6809<br>\nFax: 714.844.9156",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://longbeachhomes.github.io/LoansForYourBuyers/\" target=\"_blank\">Loans For Your Buyers</a></li><li><a class=\"text-white\" href=\"http://www.hartfordloan.com\" style=\"font-size: 0.875rem; background-color: rgb(198, 145, 63);\" target=\"_blank\">Hartford Financial</a><br></li><li><a class=\"text-white\" href=\"http://www.realestateandtaxhelp.com/taxhelp2\" target=\"_blank\">Tax Help for Realtors</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "caesarmarin@gmail.com",
+            "alerts": {
+              "success": "Thanks for contacting me! I will respond you very soon."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-7",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
