@@ -352,8 +352,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>30012 Ivy Glenn Suite 180<br>Laguna Niguel CA 92677<br>NMLS# 287752<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto: caesarmarin@gmail.com\" class=\"text-white\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nPhone: <a href=\"tel:+1-714-610-6809\" target=\"_blank\" class=\"text-white\">714.610.6809</a><br>E-Fax: 949.315.3074",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://longbeachhomes.github.io/LoansForYourBuyers/\" target=\"_blank\">Loans For Your Buyers</a></li><li><a class=\"text-white\" href=\"http://www.prioritymortgagefunding.com/cesarmarin\" style=\"font-size: 0.875rem; background-color: rgb(198, 145, 63);\" target=\"_blank\">Priority Mortgage</a><br></li><li><a class=\"text-white\" href=\"http://www.realestateandtaxhelp.com/taxhelp2\" target=\"_blank\">Tax Help for Realtors</a></li></ul>",
+          "text1": "<strong>Address</strong><br>4425 Jamboree Rd Suite 170<br>Newport Beach CA 92660<br>NMLS# 287752<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto: caesarmarin@gmail.com\" class=\"text-white\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nPhone: <a href=\"tel:+1-714-610-6809\" target=\"_blank\" class=\"text-white\">714.610.6809</a><br>E-Fax: 949.340.8044",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://longbeachhomes.github.io/LoansForYourBuyers/\" target=\"_blank\">Loans For Your Buyers</a></li><li><span style=\"font-size: 0.875rem; background-color: rgb(198, 145, 63);\"><a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\">E</a></span><a href=\"mailto:caesarmarin@gmail.com\" target=\"_blank\">-mail Me</a><br></li><li><a class=\"text-white\" href=\"http://www.realestateandtaxhelp.com/taxhelp2\" target=\"_blank\">Tax Help for Realtors</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "caesarmarin@gmail.com",
